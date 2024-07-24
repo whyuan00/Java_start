@@ -6,8 +6,10 @@
 public class solution {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         while (true) {
         String palindrom = sc.nextLine();
+        
         if (palindrom.equals("0")){
             break;
         }
