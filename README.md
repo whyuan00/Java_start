@@ -26,3 +26,4 @@
 | -------- | ------------ | ------------------------------------------- | -------------------------------------------------- | --------------------------------------------------- |
 | 24.07.24 | 섹션 0,1,2,3 | [A/B](https://www.acmicpc.net/problem/1008) | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [모음의 개수](https://www.acmicpc.net/problem/1264) |
 | 24.08.01 | 섹션 4,5 | [사파리월드](https://www.acmicpc.net/problem/2420) | [대소문자바꾸기](https://www.acmicpc.net/problem/2744) | [과제안내신분](https://www.acmicpc.net/problem/5597) |
+| 24.08.08 | 섹션 6,7 | [블랙잭](https://www.acmicpc.net/problem/2798) | [주사위게임](https://www.acmicpc.net/problem/2476) | [학점계산](https://www.acmicpc.net/problem/2754) |
